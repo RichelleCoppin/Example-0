@@ -6,5 +6,6 @@ int main()
 {
 	cout << "Hello World\n\n";
 	system("pause");
+	cout << "Stop\n";
 	return 0;
 }
